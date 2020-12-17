@@ -1,3 +1,8 @@
+// clientwidget.h
+// 客户端头文件
+// Jackkii 2020/12/16
+
+
 #ifndef CLIENTWIDGET_H
 #define CLIENTWIDGET_H
 

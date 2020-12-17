@@ -1,3 +1,8 @@
+// clientwidget.cpp
+// 客户端cpp文件
+// Jackkii 2020/12/16
+
+
 #include "clientwidget.h"
 #include "ui_clientwidget.h"
 
@@ -162,10 +167,19 @@ void Clientwidget::on_pushButtonYes_clicked()
         case 1:   //选择udp协议
             switch(btnSinOrGroup->checkedId()){
                 case 0:
+
+
+                //待更新
+
+
                     ui->textEdit->append("选择udp协议单播模式");
 
                     break;
                 case 1:
+
+                //待更新
+
+
                     ui->textEdit->append("选择udp协议组播模式");
 
                     break;

@@ -1,3 +1,7 @@
+// widget.h
+// 服务端头文件
+// Jackkii 2020/12/16
+
 #ifndef WIDGET_H
 #define WIDGET_H
 
